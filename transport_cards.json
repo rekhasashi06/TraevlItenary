@@ -1,0 +1,31 @@
+[
+    
+    {
+        "type": "Airport bus",
+        "depart": "Barcelona",
+        "dest": "Gerona Airport"
+    },
+    
+    {
+        "type": "Fight SK22",
+        "depart": "Stockholm",
+        "dest": "New York JFK",
+        "seat": "7B",
+        "info": "Gate 22, Baggage will be transferred automatically  "
+    },
+    
+    {
+        "type": "Train 78A",
+        "depart": "Madrid",
+        "dest": "Barcelona",
+        "seat": "45B"
+    },
+    
+    {
+        "type": "Flight SK455",
+        "depart": "Gerona Airport",
+        "dest": "Stockholm",
+        "seat": "3A",
+        "info": "Gate 45B, Baggage drop at 344  counter "
+    }
+]
